@@ -8,3 +8,6 @@
              WELCOME TO OCASIO C2
 ```
 ---
+C2 Framework designed to teach new cyber security professionals about Command and Control frameworks. Contains a Graphical User Interface and command line interface. 
+
+**Early Stages can only manage one session at a time at this point.**
